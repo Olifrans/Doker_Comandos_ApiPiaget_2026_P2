@@ -1,11 +1,11 @@
 
-# 🏫 API Piaget - Gestão Escolar
-
-
-
-https://therapeutic-banjo-dcb.notion.site/Comando-Doker-DevOps-405396b901af80478fadc25961789e3c?source=copy_link
+# 🏫 API Piaget - Gestão Escolar - Projeto P2
 
 API RESTful desenvolvida em **.NET 8** para gerenciamento de entidades escolares (Alunos, Professores, Escolas e Administradores). O projeto é totalmente **containerizado com Docker**, utilizando **Entity Framework Core** e **SQL Server 2022**, garantindo portabilidade, isolamento e facilidade de deployment.
+
+Passos alternativo:
+https://therapeutic-banjo-dcb.notion.site/Comando-Doker-DevOps-405396b901af80478fadc25961789e3c?source=copy_link
+
 
 ---
 
